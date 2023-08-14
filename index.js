@@ -83,5 +83,3 @@ run().catch(console.dir);
 app.listen(port, () => {
     console.log(`server is perfectly running on port: ${port}`);
 })
-
-module.exports = app
